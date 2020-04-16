@@ -2,3 +2,4 @@ src
 test
 yarn.lock
 gulpfile.js
+.vscode
