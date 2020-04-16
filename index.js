@@ -1,2 +1,2 @@
-import {extend,getConstructors,getConstructors,appendEXToFunction} from "./src/proto-ext"
-export {extend,getConstructors,getConstructors,appendEXToFunction};
+const protoext = require("./src/proto-ext");
+module.exports = protoext;
