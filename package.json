@@ -1,10 +1,11 @@
 {
   "name": "protoext",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "description": "prototype extend",
-  "main": "gulpfile.js",
+  "main": "index.js",
   "scripts": {
     "build": "gulp",
+    "push":"git add . & git commit -m \"update\" & git push & npm publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
