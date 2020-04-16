@@ -1,0 +1,27 @@
+{
+  "name": "protoext",
+  "version": "0.0.1",
+  "description": "prototype extend",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kykjsoft/protoext.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kykjsoft/protoext/issues"
+  },
+  "homepage": "https://github.com/kykjsoft/protoext#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
